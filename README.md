@@ -1,11 +1,3 @@
-![Electronics Tech Banner](https://img.freepik.com/premium-vector/technology-abstract-circuit-board-texture-background-high-tech-futuristic-circuit-board-banner-wallpaper-digital-data-engineering-electronic-motherboard_230610-156.jpg)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Electronics%20Engineer-Student-blue?style=flat-square" alt="ECE Student"/>
-  <img src="https://img.shields.io/badge/Python%20%26%20Java-Developer-green?style=flat-square" alt="Developer"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-Enthusiast-orange?style=flat-square" alt="CV Enthusiast"/>
-</p>
-
 # Hi there 👋, I'm Sneha KK! 
 
 🌟 **Electronics Engineer | Python & Java Developer | Computer Vision Enthusiast**  

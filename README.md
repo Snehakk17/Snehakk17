@@ -1,7 +1,7 @@
-![Profile Banner](https://img.freepik.com/free-photo/programming-language-code-editor-software-ui-computer-display_482257-124942.jpg?semt=ais_hybrid&w=1400)
+![Electronics Tech Banner](https://img.freepik.com/premium-vector/technology-abstract-circuit-board-texture-background-high-tech-futuristic-circuit-board-banner-wallpaper-digital-data-engineering-electronic-motherboard_230610-156.jpg)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Electronics%20and%20Communication%20Engineering-Student-blue?style=flat-square" alt="ECE Student"/>
+  <img src="https://img.shields.io/badge/Electronics%20Engineer-Student-blue?style=flat-square" alt="ECE Student"/>
   <img src="https://img.shields.io/badge/Python%20%26%20Java-Developer-green?style=flat-square" alt="Developer"/>
   <img src="https://img.shields.io/badge/Computer%20Vision-Enthusiast-orange?style=flat-square" alt="CV Enthusiast"/>
 </p>
@@ -55,22 +55,36 @@ Developed a real-time computer vision-based virtual mouse system using **Python*
 - Technologies: Python, OpenCV, MediaPipe (hand tracking)
 - Key Features: Gesture recognition for movement, left/right click, drag
 
-![Virtual Mouse Demo](https://media.geeksforgeeks.org/wp-content/uploads/20230921111922/Screenshot-2023-09-21-110656.png)
-![Hand Gesture Recognition](https://miro.medium.com/v2/resize:fit:1400/0*OfoZ60WfklcJji7O.jpg)
+<p align="center">
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230921121538/Double-Click.png" alt="Double Click Gesture" width="45%"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/0*OfoZ60WfklcJji7O.jpg" alt="Hand Gesture Recognition" width="45%"/>
+</p>
 
-<!-- Add your repo link once uploaded -->
-[View Repository 🚀](https://github.com/Snehakk17/your-virtual-mouse-repo)
+<p align="center">
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230921112903/left-cl.png" alt="Left Click Gesture" width="45%"/>
+  <img src="https://user-images.githubusercontent.com/95229816/185941431-83ba8fc6-0863-4a9b-a8ef-9908a29bd9ba.png" alt="Virtual Mouse Demo" width="45%"/>
+</p>
+
+<!-- Replace with your actual repo link once created -->
+[View Repository 🚀](https://github.com/Snehakk17/virtual-mouse-project)
 
 ### Image Processing Using MATLAB (Mini Project)
 Implemented advanced image processing techniques including edge detection, filtering, and segmentation using **MATLAB**.
 
 - Technologies: MATLAB Image Processing Toolbox
 
-![MATLAB Edge Detection Example](https://media.geeksforgeeks.org/wp-content/uploads/20200703133855/Edge_detection.png)
-![MATLAB Edge Detection](https://www.mathworks.com/videos/edge-detection-with-matlab-119353/_jcr_content/thumbnail.adapt.1200.medium.jpg/1746695841871.jpg)
+<p align="center">
+  <img src="https://www.mathworks.com/videos/edge-detection-with-matlab-119353/_jcr_content/thumbnail.adapt.1200.medium.jpg/1746695841871.jpg" alt="Edge Detection Video Thumbnail" width="45%"/>
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20200703133855/Edge_detection.png" alt="Edge Detection Example" width="45%"/>
+</p>
 
-<!-- Add your repo link once uploaded -->
-[View Repository 🚀](https://github.com/Snehakk17/your-matlab-project-repo)
+<p align="center">
+  <img src="https://fr.mathworks.com/help/examples/android/win64/xxedge_detection_sobel.png" alt="Sobel Edge Detection" width="45%"/>
+  <img src="https://de.mathworks.com/help/examples/images/win64/DetectEdgesInImagesExample_02.png" alt="Detected Edges" width="45%"/>
+</p>
+
+<!-- Replace with your actual repo link once created -->
+[View Repository 🚀](https://github.com/Snehakk17/matlab-image-processing)
 
 ## 📊 GitHub Stats
 
@@ -86,6 +100,14 @@ Implemented advanced image processing techniques including edge detection, filte
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehakk17&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
 </p>
 
+<!-- Added: Contribution Graph (Activity Graph) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Snehakk17&theme=tokyo-night&hide_border=true" alt="Sneha's Contribution Graph" />
+  <br/>
+  <i>My contribution graph – watch it grow as I code more!</i>
+</p>
+
+<!-- Added: Top Contributed Repositories -->
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Snehakk17&limit=8&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
 </p>

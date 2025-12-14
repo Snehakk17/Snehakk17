@@ -1,59 +1,90 @@
-# Hi there 👋, I'm Sneha! <!-- Customize with your full name if desired -->
+Hi there, I'm Sneha Kk 👋
 
-🌟 **Electronics Engineer | Python Developer | Computer Vision Enthusiast**  
-Passionate about building innovative solutions at the intersection of hardware and software. Skilled in object-oriented programming, UI design, and electronics/VLSI.
+🎓 Electronics and Communication Engineering Student  
+💡 Aspiring Engineer | Python & Java Developer | Electronics Enthusiast  
+👩‍💻 About Me
 
-<!-- Optional: Add social links or contact -->
-- 📫 How to reach me: [Your email or LinkedIn if you have one]
-- 🔗 Portfolio/Resume: [Link if available]
+* 🎓 Electronics and Communication Engineering (ECE) student
+* 💻 Interested in Full-Stack Development and Software Engineering
+* 🚀 Currently working on: Full-stack applications using Django and React
+* 📚 Currently learning: Java DSA, Selenium Automation, and Advanced Python
+* 🧠 Quick learner with strong problem-solving skills and a passion for technology
 
-## 🚀 Technical Skills
+🎯 Career Objective  
+Enthusiastic Electronics and Communication Engineering student with a strong academic background and technical skills in MATLAB, software development, and electronics. Eager to learn new technologies and adapt quickly while applying my knowledge and skills to contribute effectively to a growth-oriented organization.
 
-### Programming Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+🛠️ Technical Skills  
+💻 Languages
+* Python 3
+* Java
+* JavaScript (JS)
 
-### Databases
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+🗄️ Databases & Tools
+* MySQL
+* PostgreSQL
+* SQLite
+* Git
+* GitHub
+* VS Code
+* SQL
+* MySQL
 
-### Frontend
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+🎨 Frontend
+* HTML
+* CSS
 
-### Core Domains & Tools
-- Digital & Analog Electronics  
-- PCB Design  
-- VLSI Design  
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/> 
-<img src="https://img.shields.io/badge/Microsoft_Office-FF0000?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="MS Office"/>
+⚙️ Core Electronics Skills
+* Digital & Analog Electronics
+* PCB Design
+* VLSI Design
 
-## 🛠️ Projects
+📚 Frameworks & Libraries
+* React
+* Redux
 
-### Major Project: Virtual Mouse Using Hand Gestures
-Developed a computer vision-based virtual mouse system using **OpenCV** and **Python** that enables control of cursor movement and click actions through real-time hand gestures, eliminating the need for a physical mouse.
+🧰 Tools
+* MATLAB
+* MS Office (Word, Excel, PowerPoint)
 
-- Technologies: Python, OpenCV, MediaPipe (if used – add if applicable)
-- [View Repository](link-to-your-repo-if-available) <!-- Replace with actual link -->
+📌 Projects  
+🔹 Virtual Mouse Using Hand Gestures (Major Project)
+* Developed a computer vision–based virtual mouse system using Python and OpenCV.
+* Enabled real-time control of cursor movement and mouse click actions through hand gestures.
+* Eliminated the need for a physical mouse using gesture recognition techniques.
 
-### Mini Project: Image Processing Using MATLAB
-Implemented advanced image analysis algorithms using **MATLAB**, including edge detection, filtering, and segmentation techniques.
+🔹 Image Processing Using MATLAB (Mini Project)
+* Implemented advanced image processing algorithms using MATLAB.
+* Worked on edge detection, image filtering, and segmentation techniques.
 
-- Technologies: MATLAB, Image Processing Toolbox
-- [View Repository](link-to-your-repo-if-available) <!-- Replace with actual link -->
+📊 GitHub Stats
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Snehakk17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Sneha's GitHub Stats" />
+</p>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snehakk17&show_icons=true&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snehakk17&theme=tokyonight" alt="Sneha's Contribution Streak" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Snehakk17&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehakk17&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+</p>
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Snehakk17&theme=radical&hide_border=true)
+<!-- Contribution Graph -->
+<p align="center">
+  <img src="https://github.com/Snehakk17/activity-graph/activity-graph?username=Snehakk17&theme=tokyonight" alt="Sneha's Contribution Graph" />
+  <br/>
+  <i>My contribution graph – watch it grow as I code more!</i>
+</p>
 
-<!-- Optional: Visitor counter -->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Snehakk17.Snehakk17" alt="Visitors"/>
+<!-- Top Contributed Repos (including others if you contribute to open source) -->
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Snehakk17&limit=8&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
+</p>
 
-🌱 Currently exploring more in AI, Machine Learning, and embedded systems.  
-⭐ Feel free to star my repos if you find them useful!
+🤝 Connect With Me
+* 💼 LinkedIn: https://www.linkedin.com/in/sneha-kk
+* 🧑‍💼 Naukri: https://www.naukri.com/mnjuser/profile
+* 📧 Email: snehakk.ece.rymec@gmail.com
 
-Thanks for visiting my profile! 👨‍💻
+✨ I am passionate about learning, building practical projects, and growing as an engineer.
